@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:myriota.com)",
+      "WebFetch(domain:www.circuitdojo.com)",
+      "WebSearch",
+      "WebFetch(domain:docs.circuitdojo.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

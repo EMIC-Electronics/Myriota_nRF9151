@@ -1,0 +1,64 @@
+# Build directories
+build/
+_build/
+cmake-build-*/
+
+# Zephyr/nRF Connect SDK
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.log
+*.dfu
+*.zip
+
+# IDE and editor files
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Debug files
+*.log
+*.out
+
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# JLink/probe-rs
+*.jlink
