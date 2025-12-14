@@ -18,7 +18,7 @@ examples/
 ### Prerequisitos
 
 1. Tener el entorno de desarrollo configurado (ver `GETTING_STARTED.md`)
-2. nRF Connect SDK v3.0.1+ instalado
+2. nRF Connect SDK v3.1.1+ instalado
 3. West workspace inicializado
 
 ### Compilar un ejemplo
